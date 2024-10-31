@@ -20,7 +20,6 @@ export class BotaoComponent {
 
   //evento enviado
   // clicoDoComponent(){
-  
   //   this.redressa.emit('Veio pelo evento');
   // }
 }
